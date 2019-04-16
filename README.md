@@ -62,7 +62,7 @@ to see stuff  [ click here](https://www.bbc.com) and feel good
 
 # images
 
-![my image](https://upload.wikimedia.org/wikipedia/commons/d/d3/BillyBobThorntonHWOFFeb2012crop.JPG)
+![my image](https://upload.wikimedia.org/wikipedia/commons/d/d3/BillyBobThorntonHWOFFeb2012crop.JP)
 
 
 ## second image
